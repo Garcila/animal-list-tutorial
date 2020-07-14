@@ -74,3 +74,5 @@ Congratulations you completed the tutorial!
 ## This is a bonus activity that comes after the last step
 
 Try adding a click on button B to show the same animal you just selected with button A
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
