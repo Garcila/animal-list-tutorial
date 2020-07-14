@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [cat](./tutorial)
+* [tutorial](./tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/garcila/animal-list-tutorial/workflows/MakeCode/badge.svg)
 
