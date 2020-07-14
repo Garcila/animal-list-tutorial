@@ -1,6 +1,10 @@
 
 > Open this page at [https://garcila.github.io/animal-list-tutorial/](https://garcila.github.io/animal-list-tutorial/)
 
+## Tutorials
+
+* [tutorial](/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
